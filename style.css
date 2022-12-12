@@ -107,13 +107,21 @@ section.itens{
     justify-self: center;
 
     width: 40vw;
+
 }
 
 section.itens p {
    margin-top: 10px;
    font-size: 17px;
-   color: rgba(0, 0, 0, 0.825);
-   
+   color: rgba(89, 10, 10, 0.825);
+
+   font-weight: bold;
+
+}
+
+section.itens span {
+    opacity: .7;
+    font-weight: normal;
 }
 
 
